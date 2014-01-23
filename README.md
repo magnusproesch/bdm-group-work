@@ -1,4 +1,4 @@
-bdm-group-work
+BDM Group Work
 ==============
 Hi all
 
